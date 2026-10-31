@@ -1,2 +1,2 @@
 # my_projects
-# learning and uploading my works
+# Learning and uploading my works
